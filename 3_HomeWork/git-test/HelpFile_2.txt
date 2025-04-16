@@ -1,0 +1,1 @@
+Task_1.3 Add 3-rd HelpFile_2.txt to the repository and commit it

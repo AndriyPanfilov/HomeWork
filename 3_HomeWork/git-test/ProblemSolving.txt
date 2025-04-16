@@ -1,0 +1,2 @@
+Task_2 Add 4-th (NewFeatureFile.txt) to the repository and commit it
+Task_3.1 Add new line to the NewFeatureFile.txt
