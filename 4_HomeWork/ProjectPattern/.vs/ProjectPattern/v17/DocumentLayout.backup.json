@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD1FCDAE-C188-4515-8ABD-C9DF68F83D01}|ProjectPattern.vcxproj|D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\HeaderLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FD1FCDAE-C188-4515-8ABD-C9DF68F83D01}|ProjectPattern.vcxproj|solutionrelative:HeaderLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD1FCDAE-C188-4515-8ABD-C9DF68F83D01}|ProjectPattern.vcxproj|D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD1FCDAE-C188-4515-8ABD-C9DF68F83D01}|ProjectPattern.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1FCDAE-C188-4515-8ABD-C9DF68F83D01}|ProjectPattern.vcxproj|D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\HeaderLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD1FCDAE-C188-4515-8ABD-C9DF68F83D01}|ProjectPattern.vcxproj|solutionrelative:HeaderLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HeaderLogger.h",
               "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\HeaderLogger.h",
               "RelativeDocumentMoniker": "HeaderLogger.h",
-              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\HeaderLogger.h*",
-              "RelativeToolTip": "HeaderLogger.h*",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\HeaderLogger.h",
+              "RelativeToolTip": "HeaderLogger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-30T11:21:01.488Z",
               "EditorCaption": ""
@@ -71,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\4_HomeWork\\ProjectPattern\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-30T07:47:59.106Z",
               "EditorCaption": ""

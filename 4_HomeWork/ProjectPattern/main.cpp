@@ -9,7 +9,7 @@ int main(int argc, char* argv[]) {
 	SinkType sinkType_ = SinkType::CONSOLE;
 
 	if (argc !=2) {
-		msg = "No parameter was entered. Default text output to console: ";
+		msg = "No parameter was entered. Default  ";
 		argvStr = "console";
 	}
 	else {
@@ -22,7 +22,7 @@ int main(int argc, char* argv[]) {
 	
 
 	if (argvStr == "console") {
-		msg = "Outputting text to the console: ";
+		msg = msg+"Outputting text to the console: ";
 	}
 	else if (argvStr == "file") {
 		msg = "Entering text into file app.log ";
